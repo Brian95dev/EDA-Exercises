@@ -1,3 +1,5 @@
+Author = "Brian Dávalos"
+
 # EDA-Exercises from:
 https://www.datos.gov.co/Seguridad-y-Defensa/Reporte-Delito-Terrorismo-Polic-a-Nacional/37p5-impc
 https://www.datos.gov.co/Seguridad-y-Defensa/Reporte-Delito-Extorsi-n-Polic-a-Nacional/cekg-4xti
