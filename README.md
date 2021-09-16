@@ -1,4 +1,4 @@
-Author = "Brian Dávalos"
+# Author: Brian Dávalos
 
 # EDA-Exercises from:
 https://www.datos.gov.co/Seguridad-y-Defensa/Reporte-Delito-Terrorismo-Polic-a-Nacional/37p5-impc
